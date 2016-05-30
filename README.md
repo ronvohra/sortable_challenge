@@ -1,5 +1,5 @@
 # sortable_challenge
-Contains the source code for my attempt to solve the Sortable coding challenge.
+Contains the source code for my attempt to solve the [Sortable coding challenge](http://sortable.com/challenge/).
 
 The code is self-contained, just needs to be run as a regular Python script, viz.``python challenge.py``. 
 
